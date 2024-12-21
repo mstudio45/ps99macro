@@ -1,5 +1,5 @@
-requirements are broken
-i gave up on this code a long time ago 
+> ![WARNING]
+> This has been discontinued, I gave up on this code a long time ago. I just made this open sourced bcs why not
 
 you can do whatever you want with it or take inspiration
 if you want to make this work i would appreciate if you would credit me (not required but appreciated)
