@@ -1,10 +1,9 @@
 > [!WARNING]
-> This has been discontinued, I gave up on this code a long time ago. I just made this open sourced bcs why not
+> This is a project that I made for myself. A lot of stuff is rushed but my friends wanted to use it so I started recoding it. I totally forgot about this because I stopped playing PS99.
+> I made this open source for others to take inspiration. Fell free to recode it or make it work :) (credit is not required but appreciated)
 
-you can do whatever you want with it or take inspiration<br />
-if you want to make this work i would appreciate if you would credit me (not required but appreciated)<br />
 <br />
-p.s: this is now even gonna launch since I gave up on it during a rewrite (rewards, main.py and maybe other stuff are not recoded and 100% broken)<br />
+p.s: this will launch but wont work correctly 
 
 # developers
 mstudio45 - Creator and Main Developer<br />
